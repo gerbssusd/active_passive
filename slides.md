@@ -1,6 +1,7 @@
 ---
 theme: default
 title: Active & Passive Voice
+favicon: Maxfav.png
 info: |
   ## Active & Passive Voice
   A grammar and rhetoric mini-lesson for 12th grade ELA.
